@@ -23,6 +23,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-05 19:43:12</sys_updated_on>
         <table>x_58872_needit_needit_task</table>
+        <u_hhd_model/>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>
